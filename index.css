@@ -1,0 +1,45 @@
+
+
+.card-hover:hover{
+  transform: scale(1.1);
+    transition: 1.0s ease;
+}
+
+.navbar-nav{
+    margin-left: 20%;
+    gap: 20px;
+}
+.navbar-brand{
+   margin-left: 15%;
+   font-size: 30px;
+}
+.svg{
+    margin-top:-10% ;
+}
+.btn1 {
+   background-color: rgb(18, 172, 120);;
+   border: none;
+   height: 50px;
+   width: 150px;
+}
+.btn1:hover{
+    background-color: rgb(11, 152, 138);
+}
+.btn2:hover{
+transform: scale(1.1);
+transition: 0.5s ease;
+}
+.A{
+    background-color:#f3f4f5;
+}
+.A1{
+    background-color:#f3f4f5;
+    margin-top: -48px; 
+}
+
+.C{
+    margin-top: -20px;
+}
+.D{
+    margin-bottom: -50px;
+}
